@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Manar
 
-<!--
-**mManarSaeed/mManarSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Assiut University (expected 2028), building AI agents and workflow automations.
 
-Here are some ideas to get you started:
+**Tools:** n8n, Groq LLMs, Telegram Bot API, Google Sheets, Gmail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Achievement:** Honorable Mention, ICPC ECPC Qualifications 2026
+
+## Projects
+- [TechStore AI Sales & Support Bot](https://github.com/mManarSaeed/techstore-ai-support-bot)
+- [Restaurant Orders & Inventory Management](https://github.com/mManarSaeed/restaurant-orders-inventory-bot)
+- [AI Resume Screening Pipeline](https://github.com/mManarSaeed/ai-resume-screening-pipeline)
+
+[LinkedIn](https://www.linkedin.com/in/manar-s-836718242)
